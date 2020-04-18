@@ -1,5 +1,16 @@
-country,recovered
-name1,1
-name2,2
-name3,3
-name4,4
+,state,country,lat,lon,date,confirmed,recovered,death
+0,0,Thailand,15.0,101.0,1/22/20,2,0,0
+1,0,Japan,36.0,138.0,1/22/20,2,0,0
+2,0,Singapore,1.2833,103.8333,1/22/20,0,0,0
+3,0,Nepal,28.1667,84.25,1/22/20,0,0,0
+4,0,Malaysia,2.5,112.5,1/22/20,0,0,0
+5,British Columbia,Canada,49.2827,-123.1207,1/22/20,0,0,0
+6,New South Wales,Australia,-33.8688,151.2093,1/22/20,0,0,0
+7,Victoria,Australia,-37.8136,144.9631,1/22/20,0,0,0
+8,Queensland,Australia,-28.0167,153.4,1/22/20,0,0,0
+9,0,Cambodia,11.55,104.9167,1/22/20,0,0,0
+10,0,Sri Lanka,7.0,81.0,1/22/20,0,0,0
+11,0,Germany,51.0,9.0,1/22/20,0,0,0
+12,0,Finland,64.0,26.0,1/22/20,0,0,0
+13,0,United Arab Emirates,24.0,54.0,1/22/20,0,0,0
+14,0,Philippines,13.0,122.0,1/22/20,0,0,0
